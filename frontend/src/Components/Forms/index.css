@@ -1,0 +1,23 @@
+body {
+    background: radial-gradient(ellipse at center, #0f2027, #203a43, #2c5364);
+    min-height: 100vh;
+    color: #00eaff;
+    font-family: 'Orbitron', sans-serif; /* optional: add a futuristic font */
+  }
+  
+  .form-box {
+    background-color: rgba(255, 255, 255, 0.05);
+    box-shadow: none;
+    border: 1px solid #00eaff99;
+    transition: all 0.3s ease;
+  }
+  
+  .form-box:hover {
+    box-shadow: 0 0 25px #00eaffaa, 0 0 45px #00eaff66;
+    transform: scale(1.02);
+  }
+  
+  h1 {
+    text-shadow: none, 0 0 10px #00eaff55;
+  }
+  
