@@ -18,7 +18,9 @@ A real-time, browser-based **whiteboard collaboration tool** built with **HTML**
  🖼️ Screenshots
 
 | Whiteboard in action | 
-[WhiteBoard_working](ASSETS/Screenshot%202025-05-12%20102641.png)
+![Demo Screenshot](ASSETS/Screenshot%202025-05-12%20102641.png)
+
+
 
 
 
