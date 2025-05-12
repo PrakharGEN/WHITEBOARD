@@ -2,7 +2,7 @@
 
 A real-time, browser-based **whiteboard collaboration tool** built with **HTML**, **CSS**, **JavaScript**, and **Socket.IO**. Perfect for online teaching, brainstorming, interviews, and technical discussions.
 
-[DEMO IMAGES](https://github.com/user-attachments/assets/70502516-1593-43fc-90e6-5ff1f119d36a)
+[DEMO IMAGES](ASSETS/Screenshot 2025-05-12 102641.png)
 
 
 ✨ Features
